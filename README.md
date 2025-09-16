@@ -29,7 +29,7 @@ I once interned as a **Quality Assurance Tester**, which gave me a sharp eye for
 
 ## 📫 Let's Connect
 
-- 📞 Phone: **09079413416**, **08036817926**  
+- 🏍 gmail: iraoyaowen5@gmail.com
 - 🔗 LinkedIn: [owen-iraoya](https://www.linkedin.com/in/owen-iraoya-569178249)  
 
 ---
