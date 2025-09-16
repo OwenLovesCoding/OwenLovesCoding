@@ -31,7 +31,6 @@ I once interned as a **Quality Assurance Tester**, which gave me a sharp eye for
 
 - 📞 Phone: **09079413416**, **08036817926**  
 - 🔗 LinkedIn: [owen-iraoya](https://www.linkedin.com/in/owen-iraoya-569178249)  
-- 🐦 X (Formerly Twitter): [@OIraoya10327](https://twitter.com/OIraoya10327)
 
 ---
 
