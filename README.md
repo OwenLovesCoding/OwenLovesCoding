@@ -1,23 +1,23 @@
 # Hi, I'm Owen Iraoya (Junior) 👋
 
-🎯 Full-Stack React & React Native Developer  
+🎯 Full-Stack React, Nextjs, Nest and React Native Developer | Game and Charismatic Audio🔊    
 📱 Passionate about building mobile-first experiences  
-🔍 Former QA Intern | Currently exploring NestJS & PostgreSQL
+🔍 Former QA Intern | Currently exploring distributed systems and AI Systems Integration
 
 ---
 
 ## 🛠 Tech Stack I Use & Love
 
 - **Frontend:** React Native, React.js  
-- **Backend:** Node.js, Express.js, NestJS (learning)  
-- **Databases:** MongoDB, PostgreSQL, Supabase  
-- **Tools:** Git, Postman, Expo, VS Code  
+- **Backend:** Node.js, Express.js, NestJS  
+- **Databases:** MongoDB, PostgreSQL, Supabase, Mysql, Firebase 
+- **Tools:** Git, Postman, Expo, VS Code, Swagger, Figma, etc  
 
 ---
 
 ## 🚀 Current Project: **Anhelina**
-📸 *“A picture is worth a thousand insights.”*  
-Anhelina lets users take a photo of a property (e.g. a rental), and instantly see everything the landlord wants them to know — from rent to amenities, and more. It’s a beautiful, intuitive app bridging real-world visuals with practical information.
+🔊*“The sound of the future”*  
+SongBird, is a project to showcase sound of the future, defining the next generation of music. 
 
 ---
 
