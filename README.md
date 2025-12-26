@@ -12,7 +12,3 @@ I am a software developer with an interest in the intersection of artificial int
 ![](https://nirzak-streak-stats.vercel.app/?user=owenlovescoding&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owenlovescoding&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=owenlovescoding&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
